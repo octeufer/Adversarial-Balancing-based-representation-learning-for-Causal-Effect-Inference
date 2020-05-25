@@ -1,14 +1,14 @@
-###Introduction
+### Introduction
 This project is the python implementation of the model "**A**dversarial **B**alancing based representation learning for **C**ausal **E**ffect **I**nference (**ABCEI**)"  
 The entire framework is rewritten based on the [Counterfactual regression](https://github.com/clinicalml/cfrnet). Evaluation and Hyper-parameter search parts are reused to ensure the fairness of comparison.
 
-###Requirements
+### Requirements
 To run the code, the following libraries are needed:  
 >Python 3.5;  
 >Tensorflow 1.4;  
 >Numpy 1.15;
 
-###Run
+### Run
 Three examples are provided for running this code on IHDP, Jobs and Twins datasets:
 >ihdp.sh;  
 >jobs.sh;  
