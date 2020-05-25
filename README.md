@@ -1,5 +1,5 @@
 ### Introduction
-This project is the python implementation of the model "**A**dversarial **B**alancing based representation learning for **C**ausal **E**ffect **I**nference (**ABCEI**)"  
+This project is the python implementation of the model "**A**dversarial **B**alancing based representation learning for **C**ausal **E**ffect **I**nference (**ABCEI**)"[Paper](https://arxiv.org/abs/1904.13335).
 The entire framework is rewritten based on the [Counterfactual regression](https://github.com/clinicalml/cfrnet). Evaluation and Hyper-parameter search parts are reused to ensure the fairness of comparison.
 
 ### Requirements
